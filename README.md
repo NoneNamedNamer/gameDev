@@ -1,2 +1,2 @@
-# gameDev
+# gameDevForPractics
 forDevelopingGameOnUnity
